@@ -5,7 +5,7 @@ Requires at least: 2.0 or higher
 Tested up to: 2.1.3
 Stable tag: 0.1b
 
-The wakoopa widget allows you to easily show your readers what software you use via the [wakoopa](http://wakoopa.com/ "wakoopa - Software gone social") service.
+The wakoopa widget allows you to easily show your readers what software you frequently use via the wakoopa service.
 
 == Description ==
 

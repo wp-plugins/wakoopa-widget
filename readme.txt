@@ -3,7 +3,7 @@ Contributors: afex
 Tags: wakoopa, widget
 Requires at least: 2.0 or higher
 Tested up to: 2.6.1
-Stable tag: 0.2b
+Stable tag: 0.3b
 
 The wakoopa widget allows you to easily show your readers what software you frequently use via the wakoopa service.
 

@@ -3,7 +3,7 @@
 Plugin Name: wakoopa widget
 Plugin URI: http://www.afex2win.com/stuff/wakoopa-widget/
 Description: Display your wakoopa badge or top 10 list in your sidebar
-Version: 0.1b
+Version: 0.2b
 Author: Keith 'afex' Thornhill
 Author URI: http://www.afex2win.com/
 */
